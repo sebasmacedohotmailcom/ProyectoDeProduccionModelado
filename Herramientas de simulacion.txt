@@ -74,4 +74,3 @@
   AutoTURN se utiliza para analizar con confianza los proyectos de diseño de carreteras y sitios, incluidas intersecciones, rotondas, terminales de 
   autobuses, muelles de carga, estacionamientos o cualquier entrada/salida de la calle que implique verificaciones de acceso de vehículos, espacios libres 
   y maniobras de barrido.
-- 
