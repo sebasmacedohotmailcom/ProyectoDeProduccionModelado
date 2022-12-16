@@ -1,1 +1,214 @@
+Simulación de la cadena de producción de (alguna empresa)
+Primer Autor, Segundo Autor, Tercer Autor
+Departamento o Escuela, Universidad
+Ciudad, País
+primer.autor@correo.dom
+segundo.autor@correo.dom
+tercer.autor@correo.dom
+
+
+Abstract— Este documento es un ejemplo de formato apegado a las normas de IEEE para escribir artículos representativos de un proyecto realizado. Los autores deben seguir las instrucciones, incluyendo formato y tamaño de papel para mantener el estándar de publicación. Este documento puede interpretarse como un set de instrucciones para escribir su artículo o como una plantilla para hacerlo. Como habrá notado, esta primera sección es para generar un resumen muy corto y a alta escala del alcance del proyecto.
+I. INTRODUCCIÓN
+Este documento es una guía de formato o plantilla. Puede obtenerse una copia de la página del curso, o incluso puede buscar por otras versiones semejantes en internet. La idea de esta sección, es dar una introducción al tema que se tratará en el artículo, de forma concisa y que permita al lector prepararse para los contenidos siguientes.
+
+II. DESARROLLO DE CONTENIDOS
+A partir de esta sección, se desarrollan los contenidos del tema, de una forma ordenada y secuencial. Nótese que la sección debe ir organizada usando títulos como el anterior para cada tema nuevo incluido. Aparte, se incluyen subtítulos como el siguiente.
+
+A. Subtítulos
+En esta sección se especifican temas detallados que forman parte de un título principal, como el de “Desarrollo de Contenidos”.
+
+B. Especificación del Papel
+El papel debe ser el correspondiente a una hoja carta estilo US, es decir 215.9mm (8.5") ancho y 279.4mm (11") largo.    
+
+Los márgenes deben ser los siguientes:
+Superior = 19mm (0.75")
+Inferior = 25.4mm (1")
+Izquierdo – Derecho = 17.3mm (0.68")
+      
+La hoja debe estar dividida en dos columnas, con un espacio de 4.22mm (0.17") entre columnas.
+Si requiere utilizar viñetas, refiérase a la lista de márgenes anterior para ver el estilo.
+
+III. ESTILO DE PÁGINA
+Todos los párrafos deben tener identado o tabulaciones en la primera línea. También, todos los párrafos deben estar alineados de forma justificada y hacia la izquierda.
+
+A. Tipo de Letra Fuente para el Documento
+La totalidad del documento se debe escribir usando Times New Roman o equivalente. Otros tipos de fuente serán utilizados solamente cuando sea requerido para casos especiales.
+Los tamaños de fuente se incluyen en la tabla 1.
+
+B. Título y Detalles del Autor(es)
+El título debe estar en fuente tamaño 24 puntos. Los nombres de los autores en tamaño de 11 puntos. El nombre de la universidad y departamentos en letra tamaño 10 puntos y cursiva y finalmente los correos electrónicos en tamaño 9 puntos con una fuente tipo Courier.
+
+TABLA I
+TAMAÑOS DE FUENTE PARA ARTÍCULOS
+
+
+
+Apariencia (en Time New Roman ó Times)
+Tamaño
+Regular
+Negrita
+Cursiva
+8
+Contenidos de tablas
+Título de figures
+Referencias a objetos
+Negrita
+Cursiva
+9
+Direcciones de
+correo electrónico (usar fuente Courier)
+Cuerpo del artículo
+Negrita
+Cuerpo del
+abstract
+
+
+Cursiva
+10
+Subtítulos
+Negrita
+Cursiva
+11
+Nombre del autor
+Negrita
+Cursiva
+24
+Título del artículo
+
+
+
+
+
+
+  El título, autores, departamento y correos deben estar en el encabezado de la primera página, en una sola columna que abarca las dos columnas inferiores. Todo este texto debe estar centrado.
+   Cada palabra en un título debe iniciar con mayúscula, excepto palabras menores como: “a”, “de”, “y” , “desde” entre otras.
+  Los detalles de los autores no deben mostrar ningún título profesional como PhD, MSc, Dr.
+    Para evitar confusiones, el apellido de cada autor debe ser escrito siempre.
+     La descripción del departamento debe incluir al menos el nombre de la universidad, la escuela y el país.
+
+
+
+C. Encabezados de Sección
+Cada sección deberá dividirse como máximo en 3 niveles de sub-secciones. Todo subtítulo deberá tener letra de tamaño 10 puntos y cada palabra en el título deberá iniciar con mayúscula excepto las palabras menores como se indicó en la sección III.B.
+Observe en la línea anterior cómo se hace una referencia a otra sección del documento, usando el número de título III y el de subtítulo B.
+Cuando necesite crear varios niveles de sección en el documento (título, subtítulo, etc.) utilice estas normas:
+
+1) Primer Nivel: El primer nivel corresponde al de título, por tanto debe estar centrado, indexado con números romanos y todas las letras en mayúscula con la primera letra de las palabras mayores en mayor tamaño.
+2) Segundo Nivel: Un segundo nivel corresponde al subtítulo. Deben estar numerados usando letras seguidas por un punto y alineados a la izquierda. El tipo de letra es de 10 puntos y en cursiva.
+3) Tercer nivel: Un tercer nivel es como este que está leyendo. Utiliza letra cursiva de 10 puntos enlistados con números arábigos seguidos por un paréntesis. El cuerpo del ítem debe estar inmediatamente después del encabezado, sin saltos de línea.
+
+D. Figuras y Tablas
+
+Las figuras y tablas deben estar centradas en la columna. Si la figura es muy larga, se puede extender hasta ocupar el espacio de las dos columnas. Cualquier figura o tabla que se extienda más de una columna, pero no ocupe el espacio de las dos columnas, se deberá mostrar centrada en la página y deberá estar siempre en la parte superior o inferior de la página.
+Los gráficos deben estar en color, de preferencia utilice colores estándar de manera que puedan ser reproducidos en cualquier sistema. Por colores estándar se entienden rojo, azul, verde, amarillo. Trate de evitar colores complejos como azul claro combinado con azul más fuerte porque podrían confundirse.
+Utilice colores sólidos que resalten sobre el fondo de la figura para mejorar el contraste.
+Toda figura debe acompañarse de un título en letra de tamaño de 8 puntos, que inicia con la abreviatura “Fig.” para indicar “Figura” y un número de secuencia.
+El nombre de la figura debe tener mayúscula solamente en la primera palabra, independientemente de si se trata de una palabra mayor o menor.
+El nombre de la figura se utiliza centrado en la columna, o página si la figura se extiende fuera de la columna. Si la descripción se extiende más de una línea, se debe mostrar de forma justificada, como en Fig. 1.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 1 El ejemplo de un gráfico con colores sólidos que resaltan sobre el fondo blanco.
+
+Fig. 2 es un ejemplo de una imagen importada al documento. En estos casos, asegúrese de utilizar la resolución adecuada, de manera que la figura se pueda apreciar con claridad en el documento.
+No utilice figuras de resolución pobre porque empobrece la calidad del artículo.
+Cuando inserte una figura, asegúrese de verificar lo siguiente:
+los colores contrastan adecuadamente,
+la imagen es clara,
+cualquier texto en la imagen se puede leer claramente.
+
+Fig. 2 muestra un caso donde la resolución no es adecuada, mientras que Fig. 3 muestra una mejor adaptación de la misma figura.
+
+Fig. 2 Ejemplo de figura con baja resolución
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 3 Ejemplo de figura con buena resolución
+
+E. Títulos de Tablas
+Las tablas deben tener un título con letra mayúscula de 8 puntos, centrado en la columna y con letra más grande en el inicio de cada palabra mayor. Antes de la línea del título, se incluye una línea centrada donde se usa la palabra “Tabla” seguida de la numeración de la tabla usando números romanos.
+
+F. Números de Página, Encabezados y Pie de Página
+Estos tres elementos no deben ser utilizados.
+
+G. Hiper-Vínculos y Accesos Directos
+Cualquier hipervínculo o referencia a Internet debe escribirse por completo. Es decir, escribir el URL completo de la ubicación del recurso en lugar de dejar accesos directos.
+Las referencias se escriben usando fuente regular igual que el resto del artículo.
+
+H. Referencias bibliográficas
+El encabezado de la sección de referencias debe seguir las normas del nivel “título” sin embargo, no debe tener numeración.
+Todas las referencias se hacen en letra de 8 puntos.
+Utilice cursiva para distinguir los diferentes campos de la referencia. Utilice los ejemplos adjuntos en este documento.
+Todas las referencias están numeradas con números arábigos consecutivos que inician en 1 y siempre están encerrados en paréntesis cuadrados (p.e. [1]).
+Si en el cuerpo del artículo hace referencia a alguna de estas referencias, utilice solamente los paréntesis cuadrados y el número correspondiente. Nunca use términos como “ver referencia [4]”, en su lugar use “ver [4]”.
+Si son varias referencias juntas, sepárelas con comas.
+Las referencias cambian según el tipo de fuente.
+
+
+
+
+Los ejemplos enumerados en la sección de referencias de
+este documento incluyen:
+ejemplo de un libro [1]
+ejemplo de un libro parte de una serie [2]
+ejemplo de otro artículo de revista [3]
+ejemplo de un artículo de conferencia [4]
+ejemplo de una patente [5]
+ejemplo de un sitio web [6]
+ejemplo de una página de un sitio web [7]
+ejemplo de un manual [8]
+ejemplo de una hoja de datos [9]
+ejemplo de una tesis [10]
+ejemplo de un reporte técnico [11]
+ejemplo de un estándar [12]
+
+IV.CONCLUSIONES
+El propósito de esta sección es resumir los principales resultados discutidos a lo largo del paper. Recuerde manejar las conclusiones como enunciados cortos fundamentados en la teoría y los objetivos planteados.
+Esta sección no tiene requisitos especiales de formato.
+
+RECONOCIMIENTOS
+Esta sección sigue el formato regular del resto del documento. La única observación es notar que el título no está numerado.
+En esta sección se agregan agradecimientos a personas que colaboraron en el proyecto pero que no figuran como autores del paper.
+
+REFERENCIAS
+
+[1]
+S. M. Metev and V. P. Veiko, Laser Assisted Microtechnology,  2nd ed., R. M. Osgood, Jr., Ed. Berlin, Germany: Springer- Verlag, 1998.
+[2]
+J. Breckling, Ed., The Analysis of Directional Time Series:         Applications to Wind Speed and Direction, ser. Lecture Notes in         Statistics. Berlin, Germany: Springer, 1989, vol. 61.
+[3]
+S. Zhang, C. Zhu, J. K. O. Sin, and P. K. T. Mok, “A novel         ultrathin elevated channel low-temperature poly-Si TFT,” IEEE         Electron Device Lett., vol. 20, pp. 569–571, Nov. 1999.
+[4]   
+M. Wegmuller, J. P. von der Weid, P. Oberson, and N. Gisin,        “High resolution fiber distributed measurements with coherent        OFDR,” in Proc. ECOC’00, 2000, paper 11.3.4, p. 109.
+[5]
+R. E. Sorace, V. S. Reinhardt, and S. A. Vaughn, “High-speed digitalto-RF converter,” U.S. Patent 5 668 842, Sept. 16, 1997.
+[6]
+(2002) The IEEE website. [Online]. Available:         http://www.ieee.org/
+[7]
+M. Shell. (2002) IEEEtran homepage on CTAN. [Online].         Available: 
+http://www.ctan.org/tex-       archive/macros/latex/contrib/supported/IEEEtran/
+[8]
+FLEXChip Signal Processor (MC68175/D), Motorola, 1996.
+[9]
+“PDCA12-70 data sheet,” Opto Speed SA, Mezzovico, Switzerland.
+
 
